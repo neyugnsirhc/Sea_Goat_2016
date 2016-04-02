@@ -10,8 +10,8 @@ class segmentation {
 	public:
 	Mat result;
 
-	Mat segmentation(char segmentation_algorithm);
+	Mat segmentation();
 	private:
-	Mat highlight_invarient();
+	
 
 }

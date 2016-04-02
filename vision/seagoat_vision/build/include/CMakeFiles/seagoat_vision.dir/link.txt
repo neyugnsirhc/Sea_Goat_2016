@@ -1,0 +1,2 @@
+/usr/bin/ar cr libseagoat_vision.a  CMakeFiles/seagoat_vision.dir/seagoat_vision.cpp.o
+/usr/bin/ranlib libseagoat_vision.a

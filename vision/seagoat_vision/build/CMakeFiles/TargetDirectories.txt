@@ -1,0 +1,2 @@
+/home/andrew/Projects/RoboSub/Sea_Goat_2016/vision/seagoat_vision/build/include/CMakeFiles/seagoat_vision.dir
+/home/andrew/Projects/RoboSub/Sea_Goat_2016/vision/seagoat_vision/build/CMakeFiles/seagoat_vision_test.dir

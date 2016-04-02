@@ -15,6 +15,7 @@ using namespace std;
 int main() {
 	vision camera;
 
-	camera.viewVideo();
+	//camera.viewVideo();
+	camera.transmit(RS232);
 	return 0;
 }
